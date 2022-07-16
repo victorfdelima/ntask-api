@@ -24,7 +24,3 @@ Este é um projeto para fins educativos sobre como construir um API usando Node.
 ## About
 
 Victor F de Lima
-
-
-
-Código da Casa do Código - Apenas um treino
